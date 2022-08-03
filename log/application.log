@@ -1,0 +1,29 @@
+2022-07-25 20:31:22,109 [main] INFO DemoGradle - *****************   launching Browser  *****************
+2022-07-25 20:31:22,250 [main] INFO DemoGradle - *****************   opening  URL  *****************
+2022-07-25 20:31:24,870 [main] INFO DemoGradle - *****************   providing Login details  *****************
+2022-07-25 20:31:25,291 [main] INFO DemoGradle - *****************   started Login   *****************
+2022-07-25 20:31:37,203 [main] INFO DemoGradle - *****************   Adding new customer  ****************
+2022-07-25 20:31:37,203 [main] INFO DemoGradle - *****************   providing customer details  *****************
+2022-07-25 20:31:37,724 [main] INFO DemoGradle - *****************   saving customer data  *****************
+2022-07-25 20:31:39,700 [main] INFO DemoGradle - *****************   sucessfully logout  *****************
+2022-07-25 20:31:41,348 [main] INFO DemoGradle - *****************   opening  URL  *****************
+2022-07-25 20:31:41,868 [main] INFO DemoGradle - *****************   providing Login details  *****************
+2022-07-25 20:31:42,105 [main] INFO DemoGradle - *****************   started Login   *****************
+2022-07-25 20:31:45,906 [main] INFO DemoGradle - *****************   searching email ID  *****************
+2022-07-25 20:31:46,870 [main] INFO DemoGradle - *****************   sucessfully logout  *****************
+2022-07-25 20:31:48,965 [main] INFO DemoGradle - *****************   opening  URL  *****************
+2022-07-25 20:31:49,434 [main] INFO DemoGradle - *****************   providing Login details  *****************
+2022-07-25 20:31:49,665 [main] INFO DemoGradle - *****************   started Login   *****************
+2022-07-25 20:31:54,359 [main] INFO DemoGradle - *****************   searching member name  *****************
+2022-07-25 20:31:55,298 [main] INFO DemoGradle - *****************   sucessfully logout  *****************
+2022-07-26 10:41:30,329 [main] INFO DemoGradle - *****************   launching Browser  *****************
+2022-07-26 10:41:30,676 [main] INFO DemoGradle - *****************   opening  URL  *****************
+2022-07-26 10:41:33,759 [main] INFO DemoGradle - *****************   providing Login details  *****************
+2022-07-26 10:41:34,013 [main] INFO DemoGradle - *****************   started Login   *****************
+2022-07-26 10:43:14,041 [main] INFO DemoGradle - *****************   launching Browser  *****************
+2022-07-26 10:43:14,225 [main] INFO DemoGradle - *****************   opening  URL  *****************
+2022-07-26 10:43:17,318 [main] INFO DemoGradle - *****************   providing Login details  *****************
+2022-07-26 10:43:17,579 [main] INFO DemoGradle - *****************   started Login   *****************
+2022-07-26 10:43:24,937 [main] INFO DemoGradle - *****************   searching member name  *****************
+2022-07-26 10:43:25,752 [main] INFO DemoGradle - *****************   sucessfully logout  *****************
+2022-07-27 19:12:24,621 [main] INFO DemoGradle - *****************   launching Browser  *****************

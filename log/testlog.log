@@ -1,0 +1,29 @@
+2022-07-25 20:31:22 INFO  DemoGradle:25 - *****************   launching Browser  *****************
+2022-07-25 20:31:22 INFO  DemoGradle:24 - *****************   opening  URL  *****************
+2022-07-25 20:31:24 INFO  DemoGradle:30 - *****************   providing Login details  *****************
+2022-07-25 20:31:25 INFO  DemoGradle:37 - *****************   started Login   *****************
+2022-07-25 20:31:37 INFO  DemoGradle:69 - *****************   Adding new customer  ****************
+2022-07-25 20:31:37 INFO  DemoGradle:70 - *****************   providing customer details  *****************
+2022-07-25 20:31:37 INFO  DemoGradle:82 - *****************   saving customer data  *****************
+2022-07-25 20:31:39 INFO  DemoGradle:94 - *****************   sucessfully logout  *****************
+2022-07-25 20:31:41 INFO  DemoGradle:24 - *****************   opening  URL  *****************
+2022-07-25 20:31:41 INFO  DemoGradle:30 - *****************   providing Login details  *****************
+2022-07-25 20:31:42 INFO  DemoGradle:37 - *****************   started Login   *****************
+2022-07-25 20:31:45 INFO  DemoGradle:101 - *****************   searching email ID  *****************
+2022-07-25 20:31:46 INFO  DemoGradle:94 - *****************   sucessfully logout  *****************
+2022-07-25 20:31:48 INFO  DemoGradle:24 - *****************   opening  URL  *****************
+2022-07-25 20:31:49 INFO  DemoGradle:30 - *****************   providing Login details  *****************
+2022-07-25 20:31:49 INFO  DemoGradle:37 - *****************   started Login   *****************
+2022-07-25 20:31:54 INFO  DemoGradle:121 - *****************   searching member name  *****************
+2022-07-25 20:31:55 INFO  DemoGradle:94 - *****************   sucessfully logout  *****************
+2022-07-26 10:41:30 INFO  DemoGradle:30 - *****************   launching Browser  *****************
+2022-07-26 10:41:30 INFO  DemoGradle:26 - *****************   opening  URL  *****************
+2022-07-26 10:41:33 INFO  DemoGradle:32 - *****************   providing Login details  *****************
+2022-07-26 10:41:34 INFO  DemoGradle:39 - *****************   started Login   *****************
+2022-07-26 10:43:14 INFO  DemoGradle:30 - *****************   launching Browser  *****************
+2022-07-26 10:43:14 INFO  DemoGradle:26 - *****************   opening  URL  *****************
+2022-07-26 10:43:17 INFO  DemoGradle:32 - *****************   providing Login details  *****************
+2022-07-26 10:43:17 INFO  DemoGradle:39 - *****************   started Login   *****************
+2022-07-26 10:43:24 INFO  DemoGradle:123 - *****************   searching member name  *****************
+2022-07-26 10:43:25 INFO  DemoGradle:96 - *****************   sucessfully logout  *****************
+2022-07-27 19:12:24 INFO  DemoGradle:30 - *****************   launching Browser  *****************
